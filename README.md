@@ -4,7 +4,7 @@ I'm building this software as a first step in setting up my development workflow
 
 My purpose in creating this program was to confirm that my development environment (editor, Python interpreter, Git, and GitHub) is all working correctly together before moving on to more complex software, and to establish the workflow I'll use for documenting and sharing every project going forward.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jDWV7ZK5mRE)
 
 # Development Environment
 
